@@ -12,6 +12,8 @@ In this project, population data is categorized into different age groups and vi
 * To create **histograms** for continuous data distribution
 * To analyze population data and extract meaningful insights
 * To improve skills in **Python libraries used for visualizations.
+
+
 🔹 Dataset Features:
 
 * **Age Groups:** Categorized ranges such as 0–20 years, 21–64 years, and 65+ years
